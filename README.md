@@ -18,8 +18,8 @@ This script automatically registers a list of emails to the [CodeX waitlist](htt
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/RPC-Hubs/CodeX-Waitlist.git
-cd CodeX-Waitlist
+git clone https://github.com/bilalrai12/Submit-Waitlist.git
+cd Submit-Waitlist
 ```
 
 ---
